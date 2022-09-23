@@ -6,3 +6,4 @@ groceries
 fruits
 vegetables
 snacks
+Pick up letters
