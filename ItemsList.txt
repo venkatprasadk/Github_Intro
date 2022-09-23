@@ -7,3 +7,5 @@ fruits
 vegetables
 snacks
 Pick up letters
+cucumbers
+raddish
